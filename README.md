@@ -1,2 +1,5 @@
-# Register
 ![image alt](https://github.com/khshoaib/Ecommerce_elctrncs/blob/main/img/1.png)
+![image alt](https://github.com/khshoaib/Ecommerce_elctrncs/blob/main/img/2.png)
+![image alt](https://github.com/khshoaib/Ecommerce_elctrncs/blob/main/img/3.png)
+![image alt](https://github.com/khshoaib/Ecommerce_elctrncs/blob/main/img/4.png)
+![image alt](https://github.com/khshoaib/Ecommerce_elctrncs/blob/main/img/5.png)
